@@ -6,6 +6,4 @@ SNACK ORDERING APP
 
 GOOGLE DEVELOPER LINK - https://g.dev/kathirvelsiva
 
-WORKING VIDEO DRIVE LINK - https://drive.google.com/file/d/1nGbW-z6E6XoUQEAFI5zzK-UaiHBolsWJ/view?usp=share_link
-
 YOUTUBE VIDEO LINK OF PROJECT - https://youtu.be/YbcnHS8iXBQ
